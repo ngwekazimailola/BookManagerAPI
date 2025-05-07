@@ -1,6 +1,3 @@
-Thought for a second
-
-
 # 📚 Book Manager API – ASP.NET Core Minimal APIs
 
 This project is a simple and professional-grade **RESTful API** built using **ASP.NET Core 8 Minimal APIs** and **Entity Framework Core**. The purpose is to manage a collection of books with full CRUD (Create, Read, Update, Delete) functionality, connected to a SQL database.
